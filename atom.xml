@@ -4,7 +4,7 @@
   <title><![CDATA[Blogs]]></title>
   <link href="http://biotechcet.github.io/atom.xml" rel="self"/>
   <link href="http://biotechcet.github.io/"/>
-  <updated>2014-07-06T01:40:39+05:30</updated>
+  <updated>2014-07-06T02:03:58+05:30</updated>
   <id>http://biotechcet.github.io/</id>
   <author>
     <name><![CDATA[biozo]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://biotechcet.github.io/blog/2014/07/06/hello/"/>
+    <updated>2014-07-06T01:53:13+05:30</updated>
+    <id>http://biotechcet.github.io/blog/2014/07/06/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
